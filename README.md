@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/41903/m/airparrot-logo.png?v=1650436511" width="100" alt="AirParrot icon"/>
+  <img src="https://www.airsquirrels.com/hubfs/Logos/AirParrot%20Logo/01%20Logo/Grey%20Text/AirParrot-3-grey-small.png" width="100" alt="AirParrot icon"/>
 </p>
 <h1 align="center">AirParrot</h1>
 <p align="center">Native wireless screen mirroring and streaming — done right on macOS.</p>
@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://oceanofdmg.com/wp-content/uploads/2018/10/AirParrot-for-system-Free-Download-OceanofDMG.com_-1024x640.jpg" alt="AirParrot — macOS wireless screen mirroring and streaming screenshot" width="780"/>
+  <img src="https://www.airsquirrels.com/hs-fs/hubfs/AirParrot%203/AirParrot%203%20Getting%20Started/AirParrot-3-Start-Mac-Step-2.png?width=600&name=AirParrot-3-Start-Mac-Step-2.png" alt="AirParrot — macOS wireless screen mirroring and streaming screenshot" width="780"/>
 </p>
 
 ---
